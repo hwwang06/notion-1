@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist
+bin/
+
+.cache
+.yarn/cache
+.eslintcache
+
+.cursor
+
+local/.auth-token
+local/*.log
+
+.DS_Store
